@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.vscode
+.idea
+*.pkl
+__pycache__
+*.tar.xz
+report
+weibo_pkl
+page_pkl
+test*
+*.ipynb
